@@ -17,6 +17,7 @@
   "dependencies": {
     "jade": "^1.11.0",
     "jade-loader": "^0.8.0",
-    "livescript-loader": "^0.1.5"
+    "livescript-loader": "^0.1.5",
+    "shelljs": "^0.5.3"
   }
 }
