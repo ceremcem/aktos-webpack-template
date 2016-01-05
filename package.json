@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "webpack": "^1.12.9"
+  },
+  "dependencies": {
+    "livescript-loader": "^0.1.5"
   }
 }
